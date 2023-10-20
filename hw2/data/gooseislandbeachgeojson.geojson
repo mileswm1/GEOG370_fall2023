@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "gooseislandbeachgeojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Goose Island Beach" }, "geometry": { "type": "Point", "coordinates": [ -76.168143219264337, 44.244996644676206 ] } }
+]
+}
